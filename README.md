@@ -4,10 +4,6 @@
 当前运行环境以 ROS Noetic 为基础，目标设备为 Orange Pi 5 Max（RK3588），传感器
 包括 Livox MID-70 和 Intel RealSense D435i。
 
-> **当前运行基线（2026-08-12）**：所有实机测试和调试以 `sync_yyy` 主线为准。
-> 旧 gpsless 分支、镜像、脚本和本地未提交修改不再作为当前启动依据。准确提交、
-> 镜像 ID 和有效 launch 参数见
-> [当前唯一运行基线](docs/CURRENT_SYNC_YYY_BASELINE.md)。
 
 ## 系统链路
 
